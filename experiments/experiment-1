@@ -1,1 +1,107 @@
-   
+                   LAB 1 : INSTALL VIRTUAL PLAYER AND LINUX
+                            WHAT IS LINUX ?
+Linux is an open-source operating system kernel that serves as the
+foundation for various operating systems, commonly referred to as
+Linux distributions (or distros). Developed by Linus Torvalds in
+1991, Linux is known for its stability, security, and versatility,
+making it popular for servers, desktops, embedded systems, and
+more.
+
+
+STEP 1 : DOWNLOAD VIRTUALBOX FILE .
+1 Go to the VirtualBox Website
+2 Select Your Operating System
+
+   c:\Users\adity\OneDrive\Desktop\exp 1\1.png
+     
+
+STEP 2 : INSTALLING VIRTUAL BOX
+1 The beginning
+
+   c:\Users\adity\OneDrive\Desktop\exp 1\2.png
+
+
+2 Select installation location
+
+
+c:\Users\adity\OneDrive\Desktop\exp 1\3.png
+
+
+3 Ready to install
+
+
+c:\Users\adity\OneDrive\Desktop\exp 1\4.png
+
+
+4 Installation complete
+
+
+c:\Users\adity\OneDrive\Desktop\exp 1\5.png
+
+
+5 Opening virtual box
+
+
+c:\Users\adity\OneDrive\Desktop\exp 1\6.png
+
+STEP 3 : INSTALLING LINUX USING VIRTUALBOX
+1 Naming virtual machine
+After installing virtual box ,click New .
+– Write the Name you want for your system, for example: Linux Mint
+– Select Type: Linux.
+– Select Version: Ubuntu.
+
+
+c:\Users\adity\OneDrive\Desktop\exp 1\7.png
+
+
+2 Select the amount of RAM
+
+
+c:\Users\adity\OneDrive\Desktop\exp 1\8.png
+
+
+3 Hard Disk setting
+Select hard disk setting:
+– Choose ‘Create a virtual hard drive Now’, in order to make a virtual disk space.
+– Select the amount of hard drive size.
+-now you are done with hardware settings.
+
+
+c:\Users\adity\OneDrive\Desktop\exp 1\9.png
+
+
+4 Launching your System
+Choose the downloaded Linux ISO file:
+– Click Start to launch your system.
+
+
+c:\Users\adity\OneDrive\Desktop\exp 1\10.png
+
+
+– Choose your iso file from your computer.
+
+
+c:\Users\adity\OneDrive\Desktop\exp 1\11.png
+
+
+5 Final installation
+Install Linux
+– Click Install Linux Mint:
+
+
+c:\Users\adity\OneDrive\Desktop\exp 1\11.png
+
+
+Make your Account:
+– Enter your details as shown below.
+
+
+c:\Users\adity\OneDrive\Desktop\exp 1\12.png
+
+
+CONGRATULATIONS YOU HAVE SUCCESSFULLY INSTALLED THE
+UBUNTU LINUX .
+
+
+
